@@ -1,2 +1,1 @@
-My first readme
-My first commit in a long format
+6-multiple_permissions
