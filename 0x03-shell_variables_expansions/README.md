@@ -1,1 +1,1 @@
-shell varaible and exponient
+shell variable and expansion
