@@ -1,0 +1,1 @@
+shell varaible and exponient
